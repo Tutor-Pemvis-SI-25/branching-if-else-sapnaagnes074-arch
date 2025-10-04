@@ -1,3 +1,7 @@
+//12S25003_Afrian Josse Siadari
+//12S25004_Sapna Agnes Napitupulu
+//12S25042_Dewi Natasya Sitorus
+
 import java.util.*;
 import java.lang.Math;
 
